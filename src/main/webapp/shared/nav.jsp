@@ -23,7 +23,7 @@
                   
                 %>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Wecome <%=session.getAttribute("Username")%></a>
+                    <a class="nav-link" href="#">Wecome  <%=session.getAttribute("username")%></a>
                     
                 </li>
                 <li class="nav-item">
